@@ -8,5 +8,6 @@ main
 ├──README.md
 └──skills
     ├── i2t.md   # 反推图片技能
-    └── VCF.md   # 视觉认知框架（分析图片并且给出修改意见）
+    ├── VCF.md   # 视觉认知框架（分析图片并且给出修改意见）
+    └── deep-analysis.md # 深度分析
 ```
